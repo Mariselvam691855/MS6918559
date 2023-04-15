@@ -1,0 +1,89 @@
+1. What are the primitive data types in Python?
+Answer:
+ The primitive data types in Python are integers, floating-point numbers, strings, Booleans, and None Type.
+
+2. What is the difference between "==" and "is" in Python?
+Answer: 
+   "==" compares the values of two objects, while "is" compares the object identity.
+
+3. What is a conditional statement in Python?
+Answer:
+ A conditional statement is a control flow statement that executes different actions depending on whether a certain condition is true or false.
+
+4. What is the syntax for an if statement in Python?
+Answer: 
+The syntax for an if statement in Python is:
+if condition:
+    code to execute if condition is true
+
+5. What is a loop in Python?
+Answer: A loop is a control flow statement that allows code to be executed repeatedly based on a certain condition.
+
+6. What are the two types of loops in Python?
+Answer: 
+The two types of loops in Python are "for" loops and "while" loops.
+
+7. What is the syntax for a "for" loop in Python?
+Answer: 
+The syntax for a "for" loop in Python is:
+
+for variable in iterable:
+   code to execute for each element in the iterable
+
+8. What is the syntax for a "while" loop in Python?
+Answer: 
+The syntax for a "while" loop in Python is:
+
+while condition:
+   code to execute while the condition is true
+
+9. What is a function in Python?
+Answer: 
+A function is a block of code that performs a specific task and can be called multiple times throughout the program.
+
+10. What is the syntax for defining a function in Python?
+Answer: The syntax for defining a function in Python is:
+def function name(parameters):
+    code to execute when the function is called
+
+11. What is a return statement in Python?
+Answer:
+ A return statement in Python is used to return a value from a function.
+
+12. What is the difference between a parameter and an argument in Python?
+Answer:
+ A parameter is a variable defined in a function's definition, while an argument is the value passed into a function when it is called.
+
+13. What is the syntax for calling a function in Python?
+Answer: 
+The syntax for calling a function in Python is:
+Function name (arguments)
+
+14. What are the arithmetic operators in Python?
+Answer: 
+The arithmetic operators in Python are + (addition), - (subtraction), * (multiplication), / (division), % (modulus), and ** (exponentiation).
+
+15. What is the difference between "and" and "or" in Python?
+Answer:
+"and" is a logical operator that returns true if both conditions are true, while "or" returns true if at least one condition is true.
+
+16. What is a list in Python?
+Answer: 
+A list in Python is a collection of items that are ordered and changeable.
+
+17. What is a tuple in Python?
+Answer: A tuple in Python is a collection of items that are ordered and unchangeable.
+
+18. What is a dictionary in Python?
+Answer: 
+A dictionary in Python is a collection of key-value pairs that are unordered and changeable.
+
+19. What is a set in Python?
+Answer: 
+A set in Python is a collection of unique items that are unordered and unindexed.
+
+20. What is the difference between a list and a tuple in Python?
+Answer: 
+A list is mutable, meaning it can be changed, while a tuple is immutable, meaning it cannot be changed.
+
+
